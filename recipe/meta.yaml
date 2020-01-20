@@ -1,6 +1,6 @@
 {% set name = "batchcrop" %}
-{% set version = "0.1.0" %}
-{% set sha256 = "42b7476326ac0ef0ac7910b82a70ac1c073035237813790d6e29625a003421db" %}
+{% set version = "0.1.1" %}
+{% set sha256 = "a1f643ede3b39f306b6a79c59c30c0b2afec114769cd5c7403e464b76db85c61" %}
 
 package:
   name: {{ name|lower }}
